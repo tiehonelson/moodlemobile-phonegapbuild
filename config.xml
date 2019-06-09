@@ -6,10 +6,10 @@
         versionCode = "37000"
         android-versionCode="37000"
         version   = "3.7.0">
-    <name>Moodle</name>
+    <name>LEduNet</name>
 
     <description>
-        Moodle official app
+        Lebone Education Network App
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
