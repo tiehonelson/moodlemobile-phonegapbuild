@@ -56,10 +56,9 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {}
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "http:\/\/ledunet.org.ls",
+    "siteurl": "www.ledunet.org.ls",
     "sitename": "LEduNet",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
