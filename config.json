@@ -59,7 +59,7 @@
     "demo_sites": {}
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://learn.moodle.net",
+    "siteurl": "http:\/\/ledunet.org.ls",
     "sitename": "LEduNet",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
